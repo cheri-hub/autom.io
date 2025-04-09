@@ -27,7 +27,7 @@ functions/
 
 ## ✅ Pré-requisitos
 
-- Node.js 18+
+- Node.js 22+
 - Firebase CLI (`npm install -g firebase-tools`)
 - Conta no Firebase + Projeto criado
 - Conta de desenvolvedor na Meta (WhatsApp Cloud API)
